@@ -1,0 +1,11 @@
+D:\Documents\MyPractice\CheLiXiangPractice\rw-dbf\dbfHelper\dbfHelper\bin\Debug\dbfHelper.exe.config
+D:\Documents\MyPractice\CheLiXiangPractice\rw-dbf\dbfHelper\dbfHelper\bin\Debug\dbfHelper.exe
+D:\Documents\MyPractice\CheLiXiangPractice\rw-dbf\dbfHelper\dbfHelper\bin\Debug\dbfHelper.pdb
+D:\Documents\MyPractice\CheLiXiangPractice\rw-dbf\dbfHelper\dbfHelper\obj\Debug\dbfHelper.csprojResolveAssemblyReference.cache
+D:\Documents\MyPractice\CheLiXiangPractice\rw-dbf\dbfHelper\dbfHelper\obj\Debug\dbfHelper.exe
+D:\Documents\MyPractice\CheLiXiangPractice\rw-dbf\dbfHelper\dbfHelper\obj\Debug\dbfHelper.pdb
+D:\Project\DbfHelper\dbfHelper\bin\Debug\dbfHelper.exe.config
+D:\Project\DbfHelper\dbfHelper\bin\Debug\dbfHelper.exe
+D:\Project\DbfHelper\dbfHelper\bin\Debug\dbfHelper.pdb
+D:\Project\DbfHelper\dbfHelper\obj\Debug\dbfHelper.exe
+D:\Project\DbfHelper\dbfHelper\obj\Debug\dbfHelper.pdb
